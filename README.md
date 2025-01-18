@@ -47,7 +47,7 @@
 - **Document Retrieval Chatbot:** Developed pipelines leveraging Azure and OpenAI for embeddings.
 
 ### 🌟 &nbsp; Notable Projects
-- **BoardGames RAG:** An AI-based open-source system generating interactive recommendations using game-specific rulebooks.  
+- **BoardGames RAG:** An AI-based open-source system generating interactive recommendations using game-specific ([Repo](https://github.com/fedeflowers/RAG_BGG)).  
 - **Master’s Thesis:** Investigated diffusion generative models' vulnerability to membership inference attacks ([Thesis Link](https://github.com/fedeflowers/Thesis)).  
 
 ### 🤝 &nbsp; Connect with Me
