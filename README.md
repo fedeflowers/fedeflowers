@@ -8,7 +8,7 @@
 ### 🦚 &nbsp; About Me
 - 🙋‍♂️ &nbsp; My name is **Federico Fiorio**.  
 - 💻 &nbsp; Currently working as a **Data Engineer** at **Data Reply**.  
-- 📈 &nbsp; Experienced in **big data pipelines**, **cloud platforms**, and **ETL workflows**.  
+- 📈 &nbsp; Experienced in **big data pipelines**, **cloud platforms**, **RAGs** and **ETL workflows**.  
 - 🎓 &nbsp; Master’s Degree in Computer Science (**108/110**) from [University of Milan](https://www.unimi.it/).  
 - 🧠 &nbsp; Always curious and eager to tackle new challenges, including **competitive programming** ([Leetcode](https://leetcode.com/u/FedericoFiorio/)).  
 - ⚡ &nbsp; Fun facts: Rock climber, Board games lover and PC gamer.  
