@@ -43,7 +43,7 @@
 - **Airflow DAGs Migration:** Enhanced scheduling efficiency 10x by refactoring legacy DAGs to GCP Composer 2.x for a manufacturing client.  
 - **Databricks Pipeline Design:**  
   - Delivered a pipeline for theft detection, enabling data integration with Power BI, leading to a 20% reduction in operational costs.  
-  - Owner and developer of marketing&automation and eCommerce pipelines for a fashion & luxury brand.  
+  - Developer for marketing&automation and eCommerce pipelines for a world-wide famous fashion & luxury brand.  
 - **Document Retrieval Chatbot:** Developed pipelines leveraging Azure and OpenAI for embeddings.
 
 ### 🌟 &nbsp; Notable Projects
